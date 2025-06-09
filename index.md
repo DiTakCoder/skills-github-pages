@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Dylan Thach's test blog
 ---
